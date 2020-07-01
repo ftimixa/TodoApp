@@ -1,0 +1,5 @@
+export const USERS_LOADED = 'USERS_LOADED';
+export const USERS_ERROR = 'USERS_ERROR';
+export const TASKS_LOADED = 'TASKS_LOADED';
+export const TASKS_REQUESTED = 'TASKS_REQUESTED';
+export const TASKS_ERROR = 'TASKS_ERROR';
